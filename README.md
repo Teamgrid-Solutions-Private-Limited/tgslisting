@@ -2,7 +2,7 @@
 
 #  - Backend
 
-The backend for the **99acres web clone** is built using **Node.js** and **Express.js**, providing RESTful APIs to handle core functionalities like user authentication, property management, and search operations.
+The backend for the **Property Selling and buying Dealing Web** is built using **Node.js** and **Express.js**, providing RESTful APIs to handle core functionalities like user authentication, property management, and search operations.
 
 ---
 
